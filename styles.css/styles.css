@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*main styles*/
+
+.main {
+    display: flex;
+}
+
+.profile-photo {
+    width: 10px;
+    height: auto;
+}
+
+.project-title {
+    font-size: 45px;
+    
+}
